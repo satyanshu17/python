@@ -1,0 +1,21 @@
+#strings
+name='Satyanshu'
+print(name)
+print(type(name))
+#indexing
+#slicing
+'''
+s=0,-9
+a=1,-8
+t=2,-7
+y=3,-6
+a=4,-5
+n=5,-4
+s=6,-3
+h=7,-2
+u=8,-1
+'''
+print(name[0])
+print(name[5])
+#name[start argu: stop argu-1:step]
+print
